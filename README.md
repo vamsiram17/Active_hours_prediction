@@ -34,3 +34,7 @@ This pkl file is used to predict the input which would be given by the user in t
 - **success.html**:
 
 On clicking the submit button the user will be directed to this page which displays the user's name, hours slept and as per the hours slept it gives the predicted value for how many hours the user be active in the day.
+
+- **templates**:
+
+This folder contains the files of index.html and success.html.
